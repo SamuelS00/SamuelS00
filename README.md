@@ -2,45 +2,38 @@
 
 <p align='center'> I'm a Developer student from Brazil on the road to become a <b>FullStack developer</b>.</p>
 
-<p align='center'> Currently I'm living in Brazil, and learning web development at    <a href="https://github.com/betrybe">Trybe.</a>
-</p> 
+<p align='center'> Currently I'm living in Brazil, and learning web development</a>
+</p>
 
-<br>
-
-
-<div>
-  <h4 align="center" style='color:#23a0ce'>Stats</h4>
-  <div style='display:flex; flex-direction:row; justify-content:center'> 
-      <a href="https://github.com/SamuelS00/github-readme-stats">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SamuelS00&theme=tokyonightgruvbox" />
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelS00&layout=compact" />
-      </a>
-  </div>
-</div>
-
-<br>
+-----
+<h4 align="left">Languages and tools: </h4>
 
 <div>
-  <h4 align="center" style='color:#23a0ce'>Languages and Tools<h4>
-  <section align="center" >
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  </section>
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
 </div>
 
-<br>
+-----
+<h4 align="left">Github Status: </h4>
+
+<div>
+  <img align="right" alt="GitHub Details" heigth="400px" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelS00&theme=github_dark"/>
+  <img alt="GitHub Stats" heigth="200px" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelS00&theme=github_dark"/>
+  <img alt="GitHub Top Langs" heigth="200px" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelS00&theme=github_dark"/>
+</div>
+
+-----
 
 <div align="center" >
   <section>
@@ -50,5 +43,6 @@
       <a href="" >
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
+        <a href="https://www.codewars.com/users/SaumSi14"><img src="https://www.codewars.com/users/SaumSi14/badges/micro" width="160"></a>
   </section>
 <div>
