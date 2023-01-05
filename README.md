@@ -1,6 +1,6 @@
 <h1 align='center' style='color:#23a0ce'> Hi, i'm Samuel! </h1>
 
-<p align='center'> I'm a Developer student from Brazil on the road to become a <b>FullStack developer</b>.</p>
+<p align='center'> I'm a Developer student from Brazil on the road to become a <b>Backend developer</b>.</p>
 
 <p align='center'> Currently I'm living in Brazil, and learning web development</a>
 </p>
